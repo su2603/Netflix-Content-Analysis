@@ -1,0 +1,132 @@
+{
+    "title": "Netflix Content Strategy - Executive Summary",
+    "generated_date": "2025-05-21",
+    "dataset_size": 8166,
+    "key_metrics": {
+        "total_content": 8166,
+        "total_hours_viewed": 90828000000.0,
+        "avg_hours_per_content": 11122703.894195445
+    },
+    "content_strategy": {
+        "top_genres": {
+            "Family": 15790000.0,
+            "Drama": 14618333.333333334,
+            "Sports": 12489189.18918919,
+            "Romance": 12407860.262008734,
+            "Crime": 11512987.012987014
+        },
+        "content_decay": {},
+        "optimal_runtime": "Short",
+        "optimal_release_day": "Saturday",
+        "seasonality": {
+            "month_1": 50049911.26543208,
+            "month_2": 6614494.598765379,
+            "month_3": 30650327.9320988,
+            "month_4": -48919255.40123458,
+            "month_5": -43618422.06790126,
+            "month_6": 88246994.59876549,
+            "month_7": -68235829.47530863,
+            "month_8": -110752033.17901234,
+            "month_9": -93396338.73456788,
+            "month_10": 13596994.598765416,
+            "month_11": -73108005.40123458,
+            "month_12": 248871161.26543212
+        }
+    },
+    "market_insights": {
+        "top_markets": {
+            "South Korea": 31253592.814371258,
+            "Russia": 12842857.142857144,
+            "North America/UK": 10501126.798805322,
+            "Japan": 7037609.329446064,
+            "India": 4605172.413793104
+        },
+        "regional_preferences": {
+            "South Korea": {
+                "top_genre": "Sports",
+                "avg_hours": 102150000.0
+            },
+            "Russia": {
+                "top_genre": "Other",
+                "avg_hours": 12842857.142857144
+            },
+            "North America/UK": {
+                "top_genre": "Family",
+                "avg_hours": 20753333.333333332
+            },
+            "Japan": {
+                "top_genre": "Sports",
+                "avg_hours": 13150000.0
+            },
+            "India": {
+                "top_genre": "Drama",
+                "avg_hours": 42100000.0
+            }
+        }
+    },
+    "recommendations": [
+        {
+            "category": "Content Investment",
+            "title": "Invest in high-performing genres",
+            "description": "Increase investment in Family, Drama, Sports content which show consistently higher viewership.",
+            "expected_impact": "High",
+            "implementation_complexity": "Medium"
+        },
+        {
+            "category": "Content Strategy",
+            "title": "Optimize content length",
+            "description": "Target Short content length which shows optimal engagement metrics.",
+            "expected_impact": "Medium",
+            "implementation_complexity": "Low"
+        },
+        {
+            "category": "Release Strategy",
+            "title": "Prioritize Saturday releases",
+            "description": "Content released on Saturday consistently achieves higher viewership.",
+            "expected_impact": "Medium",
+            "implementation_complexity": "Low"
+        },
+        {
+            "category": "Release Strategy",
+            "title": "Implement seasonal content strategy",
+            "description": "Align major releases with identified seasonal peaks in viewership patterns.",
+            "expected_impact": "Medium",
+            "implementation_complexity": "Medium"
+        },
+        {
+            "category": "Market Strategy",
+            "title": "Focus on high-potential markets",
+            "description": "Prioritize content development for South Korea, Russia, North America/UK markets which show highest engagement.",
+            "expected_impact": "High",
+            "implementation_complexity": "High"
+        },
+        {
+            "category": "Market Strategy",
+            "title": "Tailor content to regional preferences",
+            "description": "Develop market-specific content based on regional genre preferences: South Korea: Sports; Russia: Other; North America/UK: Family.",
+            "expected_impact": "High",
+            "implementation_complexity": "High"
+        },
+        {
+            "category": "Marketing",
+            "title": "Optimize title sentiment",
+            "description": "Favor neutral title sentiment which correlates with higher viewership.",
+            "expected_impact": "Low",
+            "implementation_complexity": "Low"
+        },
+        {
+            "category": "Marketing",
+            "title": "Use high-impact keywords in titles",
+            "description": "Incorporate popular keywords like limited, temporada, de, \uc2dc\uc98c, la in content titles.",
+            "expected_impact": "Low",
+            "implementation_complexity": "Low"
+        },
+        {
+            "category": "Content Strategy",
+            "title": "Replicate successful content patterns",
+            "description": "Create more content similar to High performing newer content cluster which shows highest engagement.",
+            "expected_impact": "High",
+            "implementation_complexity": "Medium"
+        }
+    ]
+}
